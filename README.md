@@ -19,7 +19,7 @@ This project studies how the depth (number of hidden layers) and width (neurons 
 
 - `mlp_breast_cancer.ipynb` – Jupyter notebook with data loading, preprocessing, MLP experiments on depth and width, baseline logistic regression, and permutation feature importance. 
 - `report_MLP_depth_width.pdf` – Tutorial-style report explaining the method, experiments, results, and practical guidelines.
-- `fig_*.png` – Plots used in the report (optional).
+- `*_*.png` – Plots used in the report (optional).
 
 ## Dependencies
 
